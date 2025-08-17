@@ -18,3 +18,7 @@ Install dependencies:
 ```bash
 npm install
 npm run dev
+
+Example (JavaScript code):
+
+<pre> ```javascript function rollDice() { return Math.floor(Math.random() * 6) + 1; } ``` </pre>
